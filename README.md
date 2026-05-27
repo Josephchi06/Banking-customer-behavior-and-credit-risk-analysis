@@ -1,5 +1,18 @@
 # Banking Customer Behavior & Credit Risk Analysis
 
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
+- [Project Objectives](#project-objectives)
+- [Dataset Description](#dataset-description)
+- [Tools & Technologies Used](#tools--technologies-used)
+- [Business Questions & SQL Analysis](#business-questions--sql-analysis)
+- [Dashboard Features & Preview](#dashboard-features--preview)
+- [Key Insights](#key-insights)
+- [Recommendations](#recommendations)
+- [Conclusion](#conclusion)
+
 ---------------
 
 ## Project Overview
@@ -239,24 +252,35 @@ The Power BI dashboard was designed to provide interactive analysis of customer 
 
 ## Key Insights
 
-1. High-risk customers represented the largest customer segment, indicating elevated credit default exposure and the need for stronger credit monitoring strategies.
+### Credit Risk:
+The analysis showed that high-risk customers represented the largest customer segment, suggesting that a significant portion of the bank’s customer base may carry elevated credit default risk. This increases the importance of stronger credit monitoring and lending control strategies to reduce potential financial exposure.
 
-2. Customer account balances were relatively evenly distributed across account types, suggesting balanced customer engagement across banking products.
+### Customer Balance:
+The analysis showed that total account balances were relatively similar across account types, suggesting that customer funds were evenly distributed rather than concentrated in a single banking product. This indicates balanced customer engagement across account offerings and may reduce dependency on a single account category for deposit retention.
 
-3. High-risk customers were distributed across multiple cities, indicating that credit risk exposure exists across several operational regions rather than a single concentrated area.
+### Geographic Risk:
+The analysis revealed that high-risk customers were distributed across multiple cities rather than concentrated in a single location, indicating that credit risk exposure exists across several regions of the bank’s operations. However, some cities recorded slightly higher concentrations, suggesting the need for closer regional risk monitoring and targeted financial strategies.
 
-4. A small group of customers showed loan amounts exceeding their account balances, indicating elevated financial exposure and increased lending risk.
+
+### Financial Exposure:
+The analysis identified a small group of customers whose total loan amounts exceeded their account balances, indicating elevated financial exposure and increased lending risk for the bank. These customers may present higher repayment vulnerability, making continuous exposure monitoring and stricter credit control measures essential.
 
 
 ------
 
 ## Recommendations
 
-1. The bank should strengthen credit risk assessment and customer monitoring strategies for high-risk customer groups in order to reduce potential loan default exposure and improve overall lending stability.
+### Credit Risk:
+The bank should strengthen credit risk assessment and customer monitoring strategies for high-risk customer groups in order to reduce potential loan default exposure and improve overall lending stability.
 
-2. The bank should implement continuous monitoring procedures for customers whose loan amounts exceed their account balances in order to reduce financial exposure risk and improve lending control efficiency.
 
-3. The bank should strengthen regional risk monitoring in cities with higher concentrations of high-risk customers in order to support targeted financial strategies and improve overall credit risk management across different operational regions.
+### Exposure Monitoring:
+The bank should implement continuous monitoring procedures for customers whose loan amounts exceed their account balances in order to reduce financial exposure risk and improve lending control efficiency.
+
+
+### Geographic Risk:
+The bank should strengthen regional risk monitoring in cities with higher concentrations of high-risk customers in order to support targeted financial strategies and improve overall credit risk management across different operational regions.
+
 
 ---
 
